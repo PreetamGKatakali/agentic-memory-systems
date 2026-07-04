@@ -1,0 +1,7 @@
+anthropic
+voyageai
+psycopg2-binary
+redis
+pinecone-client
+pgvector
+python-dotenv
